@@ -1,6 +1,25 @@
 Bertudung langit selalu biru
+<<<<<<< HEAD
 Tempat cahaya selalu bersinar
 Tempat udara selalu beroksigen
 Tempat angin selalu sejuk
 16518118
 
+=======
+Tempat cahaya selalu benderang
+Tempat ku ingin
+Hanya ingin
+Tempat udara selalu bersih
+Termpat angin selalu nikmat
+[... 4 baris]
+16518377
+Informatika berjiwa ksatria
+Tidak pernah mengenal keluh kesah
+Tempat udara selalu bersih
+Termpat angin selalu nikmat
+Tugas yang melimpah bukanlah rintangan
+Lautan ujian sudahlah biasa
+Hidup hidup hidup informatika, ITB almamater tercinta
+Hidup hidup hidup informatika, ITB almamater tercinta
+16518121
+>>>>>>> 709b9eccc314adf895fdde7146ef8569a69a97a0
