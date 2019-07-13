@@ -17,7 +17,12 @@ Punggung tersandar pohon
 Kaki terhampar di rerumputan
 Seseorang berkata padaku
 Hari yang baik untuk istirahat
+<<<<<<< HEAD
 Hari indah
+=======
+Never gonna give you up
+Never gonna get you down
+>>>>>>> 1611cf838108d72fb2220e2e5d083d2dc997d1aa
 
 16518251
 16518377
@@ -27,5 +32,10 @@ Hari indah
 16518118
 16518400
 16518407
+<<<<<<< HEAD
 16518368
 
+=======
+16518180
+16518368
+>>>>>>> 1611cf838108d72fb2220e2e5d083d2dc997d1aa
