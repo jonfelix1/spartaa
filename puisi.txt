@@ -1,5 +1,6 @@
 Bertudung langit selalu biru
 Tempat cahaya selalu benderang
+<<<<<<< HEAD
 Tugas yang melimpah bukanlah rintangan
 Lautan ujian sudahlah biasa
 Tempat udara selalu bersih
@@ -10,16 +11,18 @@ aytyby almamaterqw tercynta
 16518400
 Tempat ku ingin
 Hanya ingin
+=======
+Loncat ke laut berburu hiu
+Saya hanya berang-berang
+>>>>>>> 5e4c88a0c66f7a30fbba74f96f366590b25bfb27
 Tempat udara selalu bersih
-Termpat angin selalu nikmat
-[... 4 baris]
-16518377
-Informatika berjiwa ksatria
-Tidak pernah mengenal keluh kesah
-Tempat udara selalu bersih
-Termpat angin selalu nikmat
-Tugas yang melimpah bukanlah rintangan
-Lautan ujian sudahlah biasa
-Hidup hidup hidup informatika, ITB almamater tercinta
-Hidup hidup hidup informatika, ITB almamater tercinta
+Tempat angin selalu nikmat
+Saya ingin jadi Kakashi
+Meski saya hanyalah rakyat
+Mencari desa ninja Konoha
+Perjalanan menjadi Hokage
+
+16518077
 16518121
+16518377
+16518118
